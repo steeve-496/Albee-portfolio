@@ -723,7 +723,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="text-center text-xs text-zinc-500 border-t border-zinc-900 pt-8">
-          <p>© 2026 Albee C John — Minimalist Obsidian & Luminous Teal theme.</p>
+          <p>© 2026 Albee C John</p>
         </footer>
 
       </main>
